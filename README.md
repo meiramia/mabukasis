@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matan Abukasis
+# 👋 Hi, I'm Meir Amir Abukasis
 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/mabukasis/)
 
