@@ -11,7 +11,7 @@
 
 ### 🔹 **NICE Ltd** (2021–Present)  
 **Group Lead – CXone Cloud Solution**  
-- Leading multiple cross-continent scrum teams in the development of hybrid recording solutions on the CXone platform.  
+- Leading multiple cross-continent scrum teams in the development of Hybrid=Recording solutions on the CXone platform.  
 - Responsible for full solution lifecycle –
   - from legacy migration to production rollouts.
   - migrating  calls recorded on external sources into CXone in near relatime 
@@ -22,7 +22,7 @@
 - Delivered new product capabilities under a fast-paced cloud-native setup.
 
 **Technical Scrum Master – InterACT R&D**  
-- Managed 2 scrum teams delivering compliance applications.  
+- Led 2 scrum teams delivering compliance applications.  
 - Focused on Agile 2.0 adoption and process improvements.
 
 ---
@@ -30,14 +30,16 @@
 ### 🔹 **Amdocs** (2006–2021)  
 **Team Leader – Order Capture Microservices (Jun 2019 – May 2021)**  
 - Led a team of 8 engineers delivering a cloud-native Order Capture product.  
-- Deployed microservices on OpenShift and AWS following agile and CI/CD best practices.
+- Stack
+  - microservices deployed on OpenShift and AWS
+  - following agile and CI/CD best practices.
 
 **Scrum Master (Jan 2016 – May 2021)**  
 - Applied Agile at scale across multiple products.  
-- Managed feature planning, backlog grooming, and delivery using Rally and CI tools.
+- Led feature planning, backlog grooming, and delivery using Rally and CI tools.
 
 **Team Leader – CPQ (Mar 2018 – Jun 2019)**  
-- Managed 4–6 developers and QA, owning several microservices through full product lifecycle.  
+- Led 4–6 developers and QA, responsible for several microservices through full product lifecycle.  
 - Partnered with project leaders to define scope and delivery targets.
 
 ---
