@@ -12,7 +12,9 @@
 ### 🔹 **NICE Ltd** (2021–Present)  
 **Group Lead – CXone Cloud Solution**  
 - Leading multiple cross-continent scrum teams in the development of hybrid recording solutions on the CXone platform.  
-- Responsible for full solution lifecycle – from legacy migration to production rollouts.  
+- Responsible for full solution lifecycle –
+  - from legacy migration to production rollouts.
+  - migrating  calls recorded on external sources into CXone in near relatime 
 - Championing engineering excellence and innovation, partnering with product management to launch cutting-edge solutions.
 
 **Technical Scrum Master – CXone Cloud**  
@@ -40,7 +42,7 @@
 
 ---
 
-### 🔹 **Comax** (2006)  
+### 🔹 **Native Data** (2006)  
 **Web Developer**  
 - Developed UI-driven, database-backed portals in the Projects Division.  
 - Delivered business intelligence dashboards and custom data views for enterprise clients.
